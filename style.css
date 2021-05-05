@@ -1,0 +1,18 @@
+
+body{
+    color:purple;
+    background:green;
+    background-position:center;
+}
+#camera,#output{
+    height:300px;
+    width:350px;
+    border:2px dashed black;
+}
+.heading{
+    width:80%;
+    font-size: 20px;
+}
+.name_of_objects,#accuracy,#objectname{
+    color:yellow
+}
